@@ -1,0 +1,11 @@
+C:\Projetos\APS_Programacao\TrabalhoAps\bin\Debug\netcoreapp2.1\TrabalhoAps.deps.json
+C:\Projetos\APS_Programacao\TrabalhoAps\bin\Debug\netcoreapp2.1\TrabalhoAps.runtimeconfig.json
+C:\Projetos\APS_Programacao\TrabalhoAps\bin\Debug\netcoreapp2.1\TrabalhoAps.runtimeconfig.dev.json
+C:\Projetos\APS_Programacao\TrabalhoAps\bin\Debug\netcoreapp2.1\TrabalhoAps.dll
+C:\Projetos\APS_Programacao\TrabalhoAps\bin\Debug\netcoreapp2.1\TrabalhoAps.pdb
+C:\Projetos\APS_Programacao\TrabalhoAps\obj\Debug\netcoreapp2.1\TrabalhoAps.csprojAssemblyReference.cache
+C:\Projetos\APS_Programacao\TrabalhoAps\obj\Debug\netcoreapp2.1\TrabalhoAps.csproj.CoreCompileInputs.cache
+C:\Projetos\APS_Programacao\TrabalhoAps\obj\Debug\netcoreapp2.1\TrabalhoAps.AssemblyInfoInputs.cache
+C:\Projetos\APS_Programacao\TrabalhoAps\obj\Debug\netcoreapp2.1\TrabalhoAps.AssemblyInfo.cs
+C:\Projetos\APS_Programacao\TrabalhoAps\obj\Debug\netcoreapp2.1\TrabalhoAps.dll
+C:\Projetos\APS_Programacao\TrabalhoAps\obj\Debug\netcoreapp2.1\TrabalhoAps.pdb
